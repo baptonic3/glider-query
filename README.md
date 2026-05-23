@@ -6,3 +6,4 @@ This repository contains my contributions to the **Glider Query Database**, focu
 |---|------|----------|--------|------|
 | 01 | Unauthenticated Flashloan Callbacks Allow Direct Invocation and Fund Theft | DeFi / Access Control | Rare | [View](./01-unauthenticated-flashloan-callbacks) |
 | 02 | Missing Message Origin Validation in LayerZero V2 lzCompose Enables Cross-Chain Message Spoofing | Cross-chain / LayerZero | Rare | [View](./02-layerzero-lzcompose-origin-validation) |
+| 03 | Consensus Signature Verification Without Explicit Power Binding | Consensus / Validator Security | Uncommon | [View](./03-consensus-signature-power-binding) |
